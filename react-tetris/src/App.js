@@ -1,7 +1,7 @@
-import React from 'react';
-import Tetris from './components/Tetris';
+import React from "react";
+import Tetris from "./components/Tetris";
 
-const APP = () => (
+const App = () => (
   <div className="APP">
     <Tetris />
   </div>
